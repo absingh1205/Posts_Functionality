@@ -1,0 +1,136 @@
+{
+  "posts": [
+    {
+      "postId": 1,
+      "postTitle": "The Secret of Failure",
+     "url":"https://images.unsplash.com/photo-1507065255811-f3b9fe968f84?ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+      "category": "Team",
+      "content": "On a bright sunny morning a group of kids in the neighbourhood found an open field inviting for a game of football.  However, there was an issue—they didn’t have a football kit.  So, the kids decided that each one of them would bring one item to build the kit.  One brought the football, another got the corner flag, and the remaining brought(..)",
+      "likes": [],
+      "userId": 1,
+      "comments": [
+        {
+          "userId": 2,
+          "comment": "Inspiring words!",
+          "date": "02-11-2020"
+        }
+      ],
+      "postDate": "02-11-2020"
+    },
+    {
+      "postId": 2,
+      "postTitle": "I Am Not the Only One",
+      "url":"https://images.unsplash.com/photo-1506269351850-0428eaed2193?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMjU4fQ&auto=format&fit=crop&w=750&q=80",
+      "category": "Team",
+      "content": "A day in the COVID-19 life. I was out of shape. And so, about 15(..)",
+      "likes": [],
+      "userId": 1,
+      "comments": [
+        {
+          "userId": 3,
+          "comment": "Wohhaa!",
+          "date": "02-11-2020"
+        }
+      ],
+      "postDate": "02-11-2020"
+    },
+    {
+      "postId": 3,
+      "postTitle": "Hamari Kahani – Version 1",
+      "url":"https://images.unsplash.com/photo-1485237254814-0003b25e5672?ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+      "category": "Attitude",
+      "content": "Co-authored by Shamshu Hirani & Arun Nathani An IT professional while getting ready for work, gazed in the mirror and noticed a grey strand of hair.  “Age is catching up,” he reflected gloomily, “and I still haven’t found my life partner!”  His glance slid down to his old, faded",
+      "likes": [],
+      "userId": 1,
+      "comments": [
+        {
+          "userId": 1,
+          "comment": "Awesome!",
+          "date": "02-11-2020"
+        }
+      ],
+      "postDate": "01-11-2020"
+    },
+    {
+      "postId": 4,
+      "postTitle": "Hamari Kahani – Version 2",
+      "url":"https://images.unsplash.com/photo-1500073584060-670c36a703f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+      "category": "Attitude",
+      "content": "Co-authored by Rohan Autee & Arun Nathani  An IT professional while getting ready for work, gazed in the mirror and noticed a grey strand of hair.  “Age is catching up,” he reflected gloomily, “and I still haven’t found my life partner!”  His glance slid down to his old, faded(..)",
+      "likes": [],
+      "userId": 1,
+      "comments": [
+        {
+          "userId": 3,
+          "comment": "Wow!",
+          "date": "02-11-2020"
+        }
+      ],
+      "postDate": "01-11-2020"
+    },
+    {
+      "postId": 5,
+      "postTitle": "Dil Chahta Hai!",
+      "url":"https://images.unsplash.com/photo-1500754088824-ce0582cfe45f?ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80",
+      "category": "Purpose",
+      "content": "Yeh dosti… The older we get, the difficult it becomes to make(..)",
+      "likes": [],
+      "userId": 1,
+      "comments": [
+        {
+          "userId": 1,
+          "comment": "Nice",
+          "date": "01-11-2020"
+        }
+      ],
+      "postDate": "31-10-2020"
+    },
+    {
+      "postId": 6,
+      "postTitle": "Taare Zameen Par",
+      "url":"https://images.unsplash.com/photo-1501696461415-6bd6660c6742?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+      "category": "Purpose",
+      "content": "Today is Cybage’s Silver Jubilee Anniversary.  It has been a(..)",
+      "likes": [],
+      "userId": 1,
+      "comments": [
+        {
+          "userId": 2,
+          "comment": "Cool!",
+          "date": "01-11-2020"
+        }
+      ],
+      "postDate": "31-10-2020"
+    }
+  
+  ],
+  "users": [
+      {
+        "userId": 1,
+        "userName": "Anny",
+        "password": "abc"
+      },
+      {
+        "userId": 2,
+        "userName": "Rhea",
+        "password": "abc"
+      },
+      {
+        "userId": 3,
+        "userName": "Rachel",
+        "password": "abc"
+      },
+      {
+        "userId": 4,
+        "userName": "Monica",
+        "password": "abc"
+      }
+     
+   
+  
+     
+    ],
+  "profile": {
+    "name": "typicode"
+  }
+}
