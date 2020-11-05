@@ -52,3 +52,7 @@ div{
 .likes{
     color:#4267b2;
 }
+
+.post-comments{
+    position: relative;
+}

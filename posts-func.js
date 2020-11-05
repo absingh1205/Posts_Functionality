@@ -61,7 +61,22 @@ $(document).ready(()=>{
                     
                     for(let i=0;i<result.comments.length;i++)
                     {
-                        $('<h2>'+ result.comments[i].comment +'</h2>').appendTo("#commentSection")
+                        // console.log(result.comments[i]);
+
+                        var userId_commented=result.comments[i].userId;
+
+                        for(let j=0;j<userArray.length;j++)
+                        {
+                            if(userId_commented==userArray[j].userId)
+                            {
+                                userName_commented=userArray[j].userName;
+                                // console.log(userName_commented);
+                                
+                                $('<h5>'+ userName_commented+" : " +result.comments[i].comment +'</h5>').appendTo("#commentSection")
+                            }
+                        }
+                        
+                        
 
                     }
 
